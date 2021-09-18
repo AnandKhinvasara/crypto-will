@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/AnandKhinvasara/crypto-will/issues"
   },
-  "homepage": "https://github.com/AnandKhinvasara/crypto-will#readme"
+  "homepage": "https://github.com/AnandKhinvasara/crypto-will#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.7",
+    "hardhat": "^2.6.4"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
 }
